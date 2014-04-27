@@ -14,11 +14,6 @@ In your web page:
 ```html
 <script src="jquery.js"></script>
 <script src="dist/jquery-clipimage.min.js"></script>
-<script>
-jQuery(function($) {
-  $.awesome(); // "awesome"
-});
-</script>
 ```
 
 ## Usage
