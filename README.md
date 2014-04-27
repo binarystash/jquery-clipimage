@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/binarystash/jquery-clipimage.svg?branch=master)](https://travis-ci.org/binarystash/jquery-clipimage)
+
 # ClipImage
 
 The jQuery Clipimage plugin allows you to clip images using canvas and VML. The technique presented on [Cross-browser image masking using javascript, VML and the HTLM5 canvas element](http://www.jaypan.com/tutorial/cross-browser-image-masking-using-javascript-vml-and-htlm5-canvas-element) was used.
