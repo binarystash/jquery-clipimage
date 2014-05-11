@@ -8,8 +8,8 @@ The jQuery Clipimage plugin allows you to clip images using canvas and VML. The 
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/binarystash01/jquery-jquery-clipimage/master/dist/jquery.jquery-clipimage.min.js
-[max]: https://raw.github.com/binarystash01/jquery-jquery-clipimage/master/dist/jquery.jquery-clipimage.js
+[min]: https://raw.github.com/binarystash/jquery-clipimage/master/dist/jquery.clipimage.min.js
+[max]: https://raw.github.com/binarystash/jquery-clipimage/master/dist/jquery.clipimage.js
 
 In your web page:
 

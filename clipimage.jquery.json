@@ -1,0 +1,28 @@
+{
+  "name": "clipimage",
+  "title": "ClipImage",
+  "description": "A jQuery plugin for clippimage images",
+  "version": "1.0.0",
+  "homepage": "git@github.com:binarystash/jquery-clipimage.git",
+  "author": {
+    "name": "binarystash01",
+    "url": "https://github.com/binarystash"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:binarystash/jquery-clipimage.git"
+  },
+  "bugs": "https://github.com/binarystash/jquery-clipimage/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~1.8.3"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}

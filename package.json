@@ -1,5 +1,5 @@
 {
-  "name": "jquery-clipimage",
+  "name": "clipimage",
   "version": "1.0.0",
   "description": "ClipImage",
   "keywords": [
@@ -8,13 +8,13 @@
   "homepage": "https://github.com/binarystash01/jquery-clipimage",
   "bugs": "https://github.com/binarystash/jquery-clipimage/issues",
   "author": {
-    "name": "binarystash01",
+    "name": "binarystash",
     "email": "binarystash01@gmail.com",
-    "url": "https://github.com/binarystash01"
+    "url": "https://github.com/binarystash"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/binarystash01/jquery-clipimage.git"
+    "url": "https://github.com/binarystash/jquery-clipimage.git"
   },
   "licenses": [
     {
