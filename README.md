@@ -4,6 +4,9 @@
 
 The jQuery Clipimage plugin allows you to clip images using canvas and VML. The technique presented on [Cross-browser image masking using javascript, VML and the HTLM5 canvas element](http://www.jaypan.com/tutorial/cross-browser-image-masking-using-javascript-vml-and-htlm5-canvas-element) was used.
 
+## Demo
+Play with a [fiddle](http://jsfiddle.net/binarystash/vjGzb/light/).
+
 ## Installation
 
 Download the [production version][min] or the [development version][max].
@@ -32,7 +35,6 @@ In your web page:
         points:[[0,0],[322,0],[0,480]] 
     });
     ```
-3. See a [fiddle](http://jsfiddle.net/binarystash/vjGzb/light/).
 
 ## Compatibility
 Tested on IE7-11, latest versions of Firefox, Chrome, and Safari
